@@ -1,0 +1,111 @@
+{
+    "characters": [
+{
+    "name": "Marisa",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/MarisaHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/MarisaMain.png",
+    "bio": "An up-and-coming jewelry designer from Italy who claims ancestry to ancient Greek warriors. As a child, she was inspired by a vision of the Colosseum in its prime. Today, she seeks glory with a smile—and an eye for beauty."
+},
+{
+    "name": "Manon",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/ManonHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/ManonMain.png",
+    "bio": "A super model and world champion judoka, Manon is an idealist, forever seeking self-improvement in the pursuit of beauty. She struts the catwalk of street fighting to become the world's strongest model."
+},
+{
+    "name": "Jamie",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/JamieHead.png", 
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/JamieHead.png",
+    "bio": "This self-styled Chinatown peacekeeper aspires to the example set by Yun and Yang, the Twin Dragons. An expert dancer, Jamie places justice and friendship above all else, defending his town with martial skill."
+},
+{
+    "name": "Guile",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/GuileHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/GuileMain.png",
+    "bio": "A US Air Force pilot who fights for his country, Guile succeeded in dismantling Shadaloo and avenging his friend Charlie. He enjoys living the family man life, but new battlefields await him."
+},
+{
+    "name": "JP",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/JPHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/JPMain.png",
+    "bio": "Head of an international NGO responsible for many successful investment projects, and the man behind Nayshall's present prosperity. Has a beloved cat named Cybele."
+},
+{
+    "name": "Luke",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/LukeHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/LukeMain.png",
+    "bio": "A contractor for a PMC, Luke uses his elite military background to teach mixed martial arts. His days off are spent eating junk food, playing video games, and fighting, but make no mistake—Luke plays to win."
+},
+{
+    "name": "Juri",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/JuriHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/JuriMain.png",
+    "bio": "This sadistic thrillseeker enjoys the strife and suffering of others, taking immense joy in obliterating her foes. Without revenge against M. Bison as a motivator, she whiles away her time in a gloomy haze."
+},
+{
+    "name": "Lily",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/LilyHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/LilyMain.png",
+    "bio": "A descendant of the Thunderfoot tribe, Lily speaks with the spirits of nature, trusting in their guidance as she travels the globe. Don't judge a book by its cover—her small stature conceals truly titanic power."
+},
+{
+    "name": "Ken Masters",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/KenHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/KenMain.png",
+    "bio": "Former US National Fighting Champ, and ex-VP of the Masters Foundation. Accusations of orchestrating a criminal plot have forced Ken to abandon his family and business and go into hiding."
+},
+{
+    "name": "E. Honda",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/EHondaHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/EHondaMain.png",
+    "bio": "A sumo wrestler looking to bring the sport worldwide, E. Honda has the skills of a yokozuna, but his constant globetrotting has prevented his promotion. Also an expert chef renowned for mouthwatering chanko stew."
+},
+{  
+    "name": "Dhalsim",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/DhalsimHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/DhalsimMain.png",
+    "bio": "A monk and yoga master from India who has served as a guide for countless suffering souls. Prefers to avoid conflict when possible, but his innate hatred of evil compels him to dispense stern justice."
+},
+{
+    "name": "Kimberly",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/KimberlyHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/KimberlyMain.png",
+    "bio": "Uninvited student to Guy, the 39th successor to Bushinryu. Kimberly had an ordinary upbringing, but she's a genuine prodigy who graduated college early...and now wants to be a ninja. Loves '80s pop culture."
+},
+{
+    "name": "Dee Jay",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/DeeJayHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/DeeJayMain.png",
+    "bio": "A globally popular dance music superstar, Dee Jay is always ready to have a good time. With a burning love for music and fighting, this Jamaican sensation drives audiences wild with hot new songs and stylish moves."
+},
+{
+    "name": "Ryu",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/RyuHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/RyuMain.png",
+    "bio": "Ever training, this martial artist seeks true strength. Well-mannered and sincere, Ryu travels the globe in search of worthy opponents. Having overcome the Satsui no Hado, he now seeks yet greater heights."
+},
+{
+    "name": "Chun-Li",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/ChunLiHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/ChunLiMain.png",
+    "bio": "A former high-kicking ICPO agent, Chun-Li looks after Li-Fen, a victim of the Black Moon Incident. With Shadaloo sundered, she now runs kung fu classes, and has become a well-loved member of the local community."
+},
+{
+    "name": "Blanka",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/BlankaHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/BlankaMain.png",
+    "bio": "A kindhearted defender of nature, Blanka has become an adventure tour guide, confident his intimate knowledge of the jungle will serve as a springboard to fame—and a comfortable life for his beloved mother."
+},
+{
+    "name": "Zangief",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/ZangiefHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/ZangiefMain.png",
+    "bio": "A colossal wrestler nicknamed the Red Cyclone. Zangief is dedicated to physical improvement and instructing his students."
+},
+{
+    "name": "Cammy",
+    "head_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterHeads/CammyHead.png",
+    "main_img": "https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/RosterMains/CammyMain.png",
+    "bio": "Member of British special forces unit Delta Red. Distinguished herself in the operation against Shadaloo, with which she shares a fated connection. Hyper-competent but somewhat moody. Currently working at HQ."
+}
+]}

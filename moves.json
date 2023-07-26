@@ -1,0 +1,4195 @@
+{
+  "moves": [
+    {
+      "name": "Standing Light Punch",
+      "command": "5LP",
+      "character_id": 1
+    },
+    {
+      "name": "Standing Medium Punch",
+      "command": "5MP",
+      "character_id": 1
+    },
+    {
+      "name": "Standing Heavy Punch",
+      "command": "5HP",
+      "character_id": 1
+    },
+    {
+      "name": "Standing Light Kick",
+      "command": "5LK",
+      "character_id": 1
+    },
+    {
+      "name": "Standing Medium Kick",
+      "command": "5MK",
+      "character_id": 1
+    },
+    {
+      "name": "Standing Heavy Kick",
+      "command": "5HK",
+      "character_id": 1
+    },
+    {
+      "name": "Crouching Light Punch",
+      "command": "2LP",
+      "character_id": 1
+    },
+    {
+      "name": "Crouching Medium Punch",
+      "command": "2MP",
+      "character_id": 1
+    },
+    {
+      "name": "Crouching Heavy Punch",
+      "command": "2HP",
+      "character_id": 1
+    },
+    {
+      "name": "Crouching Light Kick",
+      "command": "2LK",
+      "character_id": 1
+    },
+    {
+      "name": "Crouching Medium Kick",
+      "command": "2MK",
+      "character_id": 1
+    },
+    {
+      "name": "Crouching Heavy Kick",
+      "command": "2HK",
+      "character_id": 1
+    },
+    {
+      "name": "Jumping Light Punch",
+      "command": "j.LP",
+      "character_id": 1
+    },
+    {
+      "name": "Jumping Medium Punch",
+      "command": "j.MP",
+      "character_id": 1
+    },
+    {
+      "name": "Jumping Heavy Punch",
+      "command": "j.HP",
+      "character_id": 1
+    },
+    {
+      "name": "Jumping Light Kick",
+      "command": "j.LK",
+      "character_id": 1
+    },
+    {
+      "name": "Jumping Medium Kick",
+      "command": "j.MK",
+      "character_id": 1
+    },
+    {
+      "name": "Jumping Heavy Kick",
+      "command": "j.HK",
+      "character_id": 1
+    },
+    {
+      "name": "Command MP",
+      "command": "6MP",
+      "character_id": 1
+    },
+    {
+      "name": "Magna Bunker",
+      "command": "4HP",
+      "character_id": 1
+    },
+    {
+      "name": "Command HP",
+      "command": "3HP",
+      "character_id": 1
+    },
+    {
+      "name": "Command HK",
+      "command": "6HK",
+      "character_id": 1
+    },
+    {
+      "name": "Caelum Arc",
+      "command": "j.2HP",
+      "character_id": 1
+    },
+    {
+      "name": "Light Two Hitter",
+      "command": "5LP~LP",
+      "character_id": 1
+    },
+    {
+      "name": "Medium Two Hitter",
+      "command": "5MP~MP",
+      "character_id": 1
+    },
+    {
+      "name": "Heavy Two Hitter",
+      "command": "5HP~HP",
+      "character_id": 1
+    },
+    {
+      "name": "Novacule Swipe",
+      "command": "6MP~HP",
+      "character_id": 1
+    },
+    {
+      "name": "Novacule Thrust",
+      "command": "6MP~HK",
+      "character_id": 1
+    },
+    {
+      "name": "Malleus Breaker",
+      "command": "3HP~3HP",
+      "character_id": 1
+    },
+    {
+      "name": "Falx Crusher",
+      "command": "6HK~6HK",
+      "character_id": 1
+    },
+    {
+      "name": "Volare Combo",
+      "command": "j.MP~MP",
+      "character_id": 1
+    },
+    {
+      "name": "Forward Throw",
+      "command": "(LPLK)",
+      "character_id": 1
+    },
+    {
+      "name": "Back Throw",
+      "command": "(4LPLK)",
+      "character_id": 1
+    },
+    {
+      "name": "Standing Light Punch",
+      "command": "5LP",
+      "character_id": 2
+    },
+    {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 2
+    },
+    {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 2
+    },
+    {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 2
+    },
+    {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 2
+    },
+    {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 2
+    },
+    {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 2
+    },
+    {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 2
+    },
+    {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 2
+    },
+    {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 2
+    },
+    {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 2
+    },
+    {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 2
+    },
+    {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 2
+    },
+    {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 2
+    },
+    {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 2
+    },
+    {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 2
+    },
+    {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 2
+    },
+    {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 2
+    },
+    {
+        "name": "En Haut",
+        "command": "4MK~MK",
+        "character_id": 2
+    },
+    {
+        "name": "Révérence",
+        "command": "4HP",
+        "character_id": 2
+    },
+    {
+        "name": "Tomoe Derrière",
+        "command": "3HK",
+        "character_id": 2
+    },
+    {
+        "name": "À Terre",
+        "command": "5MP~MK",
+        "character_id": 2
+    },
+    {
+        "name": "Temps Lié",
+        "command": "5HP~HP",
+        "character_id": 2
+    },
+    {
+        "name": "Allongé",
+        "command": "2HP~HP",
+        "character_id": 2
+    },
+    {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 2
+    },
+    {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 2
+    },
+    {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 2
+    },
+    {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 2
+    },
+    {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 2
+    },
+    {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 2
+    },
+    {
+        "name": "Manège Doré",
+        "command": "63214P",
+        "character_id": 2
+    },
+    {
+        "name": "Renversé",
+        "command": "236P",
+        "character_id": 2
+    },
+    {
+        "name": "Renversé Feint",
+        "command": "236[P]",
+        "character_id": 2
+    },
+    {
+        "name": "Grand Fouetté",
+        "command": "236P~K",
+        "character_id": 2
+    },
+    {
+        "name": "Rond-point",
+        "command": "236K",
+        "character_id": 2
+    },
+    {
+        "name": "Dégagé",
+        "command": "214K",
+        "character_id": 2
+    },
+    {
+        "name": "Level 1 Super",
+        "command": "236236K",
+        "character_id": 2
+    },
+    {
+        "name": "Level 2 Super",
+        "command": "214214K",
+        "character_id": 2
+    },
+    {
+        "name": "Level 3 Super",
+        "command": "236236P",
+        "character_id": 2
+    },
+    {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 2
+    },
+    {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 2
+    },
+    {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 2
+    },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 3
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 3
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 3
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 3
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 3
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 3
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 3
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 3
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 3
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 3
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 3
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 3
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 3
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 3
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 3
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 3
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 3
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 3
+      },
+      {
+        "name": "Tensei Kick",
+        "command": "2KK",
+        "character_id": 3
+      },
+      {
+        "name": "Falling Star Kick",
+        "command": "6MK",
+        "character_id": 3
+      },
+      {
+        "name": "Hermit's Elbow",
+        "command": "4HP",
+        "character_id": 3
+      },
+      {
+        "name": "Senei Kick",
+        "command": "6HK",
+        "character_id": 3
+      },
+      {
+        "name": "Phantom Sway",
+        "command": "2HK~HK~P",
+        "character_id": 3
+      },
+      {
+        "name": "Bitter Strikes",
+        "command": "5LP~LK~MP",
+        "character_id": 3
+      },
+      {
+        "name": "Full Moon Kick",
+        "command": "6MK~MK~P",
+        "character_id": 3
+      },
+      {
+        "name": "Intoxicated Assault",
+        "command": "4HP~HP~HK",
+        "character_id": 3
+      },
+      {
+        "name": "Ransui Haze",
+        "command": "6HK~4HK~P",
+        "character_id": 3
+      },
+      {
+        "name": "Forward Throw",
+        "command": "(LPLK)",
+        "character_id": 3
+      },
+      {
+        "name": "Back Throw",
+        "command": "(4LPLK)",
+        "character_id": 3
+      },
+      {
+        "name": "Drive Impact",
+        "command": "(HPHK)",
+        "character_id": 3
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "(6HPHK)",
+        "character_id": 3
+      },
+      {
+        "name": "Drive Parry",
+        "command": "(MPMK)",
+        "character_id": 3
+      },
+      {
+        "name": "Drive Rush",
+        "command": "(66)",
+        "character_id": 3
+      },
+      {
+        "name": "The Devil Inside",
+        "command": "(22P)",
+        "character_id": 3
+      },
+      {
+        "name": "Freeflow Strikes",
+        "command": "(236P)",
+        "character_id": 3
+      },
+      {
+        "name": "Freeflow Strikes Punch 1",
+        "command": "(236P~6P)",
+        "character_id": 3
+      },
+      {
+        "name": "Freeflow Strikes Punch 2",
+        "command": "(236P~6P~6P)",
+        "character_id": 3
+      },
+      {
+        "name": "Freeflow Kicks 1",
+        "command": "(236P~6K)",
+        "character_id": 3
+      },
+      {
+        "name": "Freeflow Kicks 2",
+        "command": "(236P~6K~6K)",
+        "character_id": 3
+      },
+      {
+        "name": "Swagger Step",
+        "command": "(214P)",
+        "character_id": 3
+      },
+      {
+        "name": "Swagger Hermit Punch",
+        "command": "(214P~6P)",
+        "character_id": 3
+      },
+      {
+        "name": "Arrow Kick",
+        "command": "(623K)",
+        "character_id": 3
+      },
+      {
+        "name": "Luminous Dive Kick",
+        "command": "(j.214K)",
+        "character_id": 3
+      },
+      {
+        "name": "Bakkai",
+        "command": "(236K)",
+        "character_id": 3
+      },
+      {
+        "name": "Tenshin",
+        "command": "(63214K)",
+        "character_id": 3
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "(236236K)",
+        "character_id": 3
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "(214214P)",
+        "character_id": 3
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "(236236P)",
+        "character_id": 3
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "(5PPPKKK)",
+        "character_id": 3
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "(6PPPKKK)",
+        "character_id": 3
+      },
+      {
+        "name": "Back Taunt",
+        "command": "(4PPPKKK)",
+        "character_id": 3
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 4
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 4
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 4
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 4
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 4
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 4
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 4
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 4
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 4
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 4
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 4
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 4
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 4
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 4
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 4
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 4
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 4
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 4
+      },
+      {
+        "name": "Full Bullet Magnum",
+        "command": "6MP",
+        "character_id": 4
+      },
+      {
+        "name": "Spinning Back Knuckle",
+        "command": "6HP",
+        "character_id": 4
+      },
+      {
+        "name": "Burning Straight",
+        "command": "4HP",
+        "character_id": 4
+      },
+      {
+        "name": "Knee Bazooka",
+        "command": "4LK",
+        "character_id": 4
+      },
+      {
+        "name": "Rolling Sobat",
+        "command": "4MK or 6MK",
+        "character_id": 4
+      },
+      {
+        "name": "Reverse Spin Kick",
+        "command": "6HK",
+        "character_id": 4
+      },
+      {
+        "name": "Guile High Kick",
+        "command": "3HK",
+        "character_id": 4
+      },
+      {
+        "name": "Recoil Cannon",
+        "command": "5MP~4HP",
+        "character_id": 4
+      },
+      {
+        "name": "Double Shot",
+        "command": "2MP~2MP",
+        "character_id": 4
+      },
+      {
+        "name": "Drake Fang",
+        "command": "2MK~6MP",
+        "character_id": 4
+      },
+      {
+        "name": "Phantom Cutter",
+        "command": "2HK~3HK",
+        "character_id": 4
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 4
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 4
+      },
+      {
+        "name": "Air Forward Throw",
+        "command": "LPLK Air",
+        "character_id": 4
+      },
+      {
+        "name": "Air Back Throw",
+        "command": "4LPLK Air",
+        "character_id": 4
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 4
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 4
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 4
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 4
+      },
+      {
+        "name": "Sonic Boom",
+        "command": "[4]6P",
+        "character_id": 4
+      },
+      {
+        "name": "Somersault Kick",
+        "command": "[2]8K",
+        "character_id": 4
+      },
+      {
+        "name": "Sonic Blade",
+        "command": "214P",
+        "character_id": 4
+      },
+      {
+        "name": "Sonic Cross",
+        "command": "214P_6P",
+        "character_id": 4
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "[4]646P",
+        "character_id": 4
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "214214P",
+        "character_id": 4
+      },
+      {
+        "name": "Sonic Break",
+        "command": "PP",
+        "character_id": 4
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "[4]646K",
+        "character_id": 4
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 4
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 4
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 4
+      },
+      {
+        "name": "Down Taunt",
+        "command": "2PPPKKK",
+        "character_id": 4
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 5
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 5
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 5
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 5
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 5
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 5
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 5
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 5
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 5
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 5
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 5
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 5
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 5
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 5
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 5
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 5
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 5
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 5
+      },
+      {
+        "name": "Grom Strelka",
+        "command": "4MP",
+        "character_id": 5
+      },
+      {
+        "name": "Guillotinna",
+        "command": "6MK",
+        "character_id": 5
+      },
+      {
+        "name": "Malice",
+        "command": "3HP",
+        "character_id": 5
+      },
+      {
+        "name": "Bylina",
+        "command": "6HK",
+        "character_id": 5
+      },
+      {
+        "name": "Grom Strelka",
+        "command": "4MP",
+        "character_id": 5
+      },
+      {
+        "name": "Zilant",
+        "command": "6HK",
+        "character_id": 5
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 5
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 5
+      },
+      {
+        "name": "Air Throw",
+        "command": "LPLK Air",
+        "character_id": 5
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 5
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 5
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 5
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 5
+      },
+      {
+        "name": "Triglav",
+        "command": "22P",
+        "character_id": 5
+      },
+      {
+        "name": "Stribog",
+        "command": "236P",
+        "character_id": 5
+      },
+      {
+        "name": "Departure",
+        "command": "214P",
+        "character_id": 5
+      },
+      {
+        "name": "Departure Followups",
+        "command": "214P~214P",
+        "character_id": 5
+      },
+      {
+        "name": "Torbalan",
+        "command": "236K",
+        "character_id": 5
+      },
+      {
+        "name": "Embrace",
+        "command": "214K",
+        "character_id": 5
+      },
+      {
+        "name": "Amnesia",
+        "command": "22K",
+        "character_id": 5
+      },
+      {
+        "name": "Chornobog",
+        "command": "236236P",
+        "character_id": 5
+      },
+      {
+        "name": "Lovushka",
+        "command": "214214P",
+        "character_id": 5
+      },
+      {
+        "name": "Interdiction",
+        "command": "236236K",
+        "character_id": 5
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 5
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 5
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 5
+      },
+      {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 6
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 6
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 6
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 6
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 6
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 6
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 6
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 6
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 6
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 6
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 6
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 6
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 6
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 6
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 6
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 6
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 6
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 6
+      },
+      {
+        "name": "Rawhide",
+        "command": "6MP",
+        "character_id": 6
+      },
+      {
+        "name": "Suppressor",
+        "command": "4HP",
+        "character_id": 6
+      },
+      {
+        "name": "Outlaw Kick",
+        "command": "4HK",
+        "character_id": 6
+      },
+      {
+        "name": "Brutal Spike",
+        "command": "6HP",
+        "character_id": 6
+      },
+      {
+        "name": "Triple Impact",
+        "command": "5LP~MP~HP",
+        "character_id": 6
+      },
+      {
+        "name": "Snapback Combo",
+        "command": "5MP~MP~MP~MP",
+        "character_id": 6
+      },
+      {
+        "name": "Double Impact",
+        "command": "6HP~6HP",
+        "character_id": 6
+      },
+      {
+        "name": "Nose Breaker",
+        "command": "2MK~2HP",
+        "character_id": 6
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 6
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 6
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 6
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 6
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 6
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 6
+      },
+      {
+        "name": "Sand Blast",
+        "command": "236P",
+        "character_id": 6
+      },
+      {
+        "name": "Rising Uppercut",
+        "command": "623P",
+        "character_id": 6
+      },
+      {
+        "name": "Flash Knuckle (LP)",
+        "command": "214LP",
+        "character_id": 6
+      },
+      {
+        "name": "Flash Knuckle (MP)",
+        "command": "214MP",
+        "character_id": 6
+      },
+      {
+        "name": "Flash Knuckle (HP)",
+        "command": "214HP",
+        "character_id": 6
+      },
+      {
+        "name": "Flash Knuckle (PP)",
+        "command": "214PP",
+        "character_id": 6
+      },
+      {
+        "name": "Aerial Flash Knuckle",
+        "command": "j.214P",
+        "character_id": 6
+      },
+      {
+        "name": "Avenger",
+        "command": "236K",
+        "character_id": 6
+      },
+      {
+        "name": "No Chaser",
+        "command": "236K~P",
+        "character_id": 6
+      },
+      {
+        "name": "Impaler",
+        "command": "236K~K",
+        "character_id": 6
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236P",
+        "character_id": 6
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "214214P",
+        "character_id": 6
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "236236K",
+        "character_id": 6
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 6
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 6
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 6
+      },
+      {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 7
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 7
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 7
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 7
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 7
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 7
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 7
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 7
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 7
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 7
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 7
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 7
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 7
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 7
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 7
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 7
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 7
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 7
+      },
+      {
+        "name": "Neutral Jumping Heavy Kick",
+        "command": "8j.HK",
+        "character_id": 7
+      },
+      {
+        "name": "Kyosesho",
+        "command": "6MP",
+        "character_id": 7
+      },
+      {
+        "name": "Senkai Kick",
+        "command": "6MK",
+        "character_id": 7
+      },
+      {
+        "name": "Renko Kicks",
+        "command": "6HP",
+        "character_id": 7
+      },
+      {
+        "name": "Korenzan",
+        "command": "4HK",
+        "character_id": 7
+      },
+      {
+        "name": "Death Crest",
+        "command": "5MP~4HP~HP",
+        "character_id": 7
+      },
+      {
+        "name": "Forward Throw",
+        "command": "(LPLK)",
+        "character_id": 7
+      },
+      {
+        "name": "Back Throw",
+        "command": "(4LPLK)",
+        "character_id": 7
+      },
+      {
+        "name": "Air Throw",
+        "command": "(LPLK Air)",
+        "character_id": 7
+      },
+      {
+        "name": "Drive Impact",
+        "command": "(HPHK)",
+        "character_id": 7
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "(6HPHK)",
+        "character_id": 7
+      },
+      {
+        "name": "Drive Parry",
+        "command": "(MPMK)",
+        "character_id": 7
+      },
+      {
+        "name": "Drive Rush",
+        "command": "(66)",
+        "character_id": 7
+      },
+      {
+        "name": "Fuhajin",
+        "command": "(214LK)",
+        "character_id": 7
+      },
+      {
+        "name": "Saihasho",
+        "command": "(236LK)",
+        "character_id": 7
+      },
+      {
+        "name": "Ankensatsu",
+        "command": "(236MK)",
+        "character_id": 7
+      },
+      {
+        "name": "Go Ohsatsu",
+        "command": "(236HK)",
+        "character_id": 7
+      },
+      {
+        "name": "Tensenrin",
+        "command": "(623P)",
+        "character_id": 7
+      },
+      {
+        "name": "Shiku-sen",
+        "command": "(j.214K)",
+        "character_id": 7
+      },
+      {
+        "name": "Shiren-sen",
+        "command": "(j.214K~K)",
+        "character_id": 7
+      },
+      {
+        "name": "Sakkai Fuhazan",
+        "command": "236236K",
+        "character_id": 7
+      },
+      {
+        "name": "Feng Shui Engine",
+        "command": "214214P",
+        "character_id": 7
+      },
+      {
+        "name": "Kaisen Dankai Raku",
+        "command": "214214K",
+        "character_id": 7
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "(5PPPKKK)",
+        "character_id": 7
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "(6PPPKKK)",
+        "character_id": 7
+      },
+      {
+        "name": "Back Taunt",
+        "command": "(4PPPKKK)",
+        "character_id": 7
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 8
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 8
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 8
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 8
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 8
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 8
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 8
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 8
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 8
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 8
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 8
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 8
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 8
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 8
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 8
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 8
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 8
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 8
+      },
+      {
+        "name": "Command HP",
+        "command": "6HP",
+        "character_id": 8
+      },
+      {
+        "name": "Ridge Thrust",
+        "command": "3HP",
+        "character_id": 8
+      },
+      {
+        "name": "Horn Breaker",
+        "command": "4HP",
+        "character_id": 8
+      },
+      {
+        "name": "Great Spin",
+        "command": "j.2HP",
+        "character_id": 8
+      },
+      {
+        "name": "Desert Storm",
+        "command": "6HP~HP~HP",
+        "character_id": 8
+      },
+      {
+        "name": "Double Arrow",
+        "command": "j.MP~MP",
+        "character_id": 8
+      },
+      {
+        "name": "Forward Throw (LPLK)",
+        "command": "LPLK",
+        "character_id": 8
+      },
+      {
+        "name": "Back Throw (4LPLK)",
+        "command": "4LPLK",
+        "character_id": 8
+      },
+      {
+        "name": "Drive Impact (HPHK)",
+        "command": "HPHK",
+        "character_id": 8
+      },
+      {
+        "name": "Drive Reversal (6HPHK)",
+        "command": "6HPHK",
+        "character_id": 8
+      },
+      {
+        "name": "Drive Parry (MPMK)",
+        "command": "MPMK",
+        "character_id": 8
+      },
+      {
+        "name": "Drive Rush (66)",
+        "command": "66",
+        "character_id": 8
+      },
+      {
+        "name": "Condor Wind Stock (214P)",
+        "command": "214P",
+        "character_id": 8
+      },
+      {
+        "name": "Condor Wind Attack (214P)",
+        "command": "214P",
+        "character_id": 8
+      },
+      {
+        "name": "Condor Spire (236K)",
+        "command": "236K",
+        "character_id": 8
+      },
+      {
+        "name": "Tomahawk Buster (623P)",
+        "command": "623P",
+        "character_id": 8
+      },
+      {
+        "name": "Condor Dive (j.PP)",
+        "command": "j.PP",
+        "character_id": 8
+      },
+      {
+        "name": "Mexican Typhoon (360+P)",
+        "command": "360+P",
+        "character_id": 8
+      },
+      {
+        "name": "Level 1 Super (236236P)",
+        "command": "236236P",
+        "character_id": 8
+      },
+      {
+        "name": "Level 2 Super (236236K)",
+        "command": "236236K",
+        "character_id": 8
+      },
+      {
+        "name": "Level 3 Super (214214P)",
+        "command": "214214P",
+        "character_id": 8
+      },
+      {
+        "name": "Neutral Taunt (5PPPKKK)",
+        "command": "5PPPKKK",
+        "character_id": 8
+      },
+      {
+        "name": "Forward Taunt (6PPPKKK)",
+        "command": "6PPPKKK",
+        "character_id": 8
+      },
+      {
+        "name": "Back Taunt (4PPPKKK)",
+        "command": "4PPPKKK",
+        "character_id": 8
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 9
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 9
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 9
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 9
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 9
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 9
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 9
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 9
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 9
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 9
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 9
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 9
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 9
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 9
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 9
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 9
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 9
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 9
+      },
+      {
+        "name": "Neutral Jumping Heavy Kick",
+        "command": "8j.HK",
+        "character_id": 9
+      },
+      {
+        "name": "Chin Buster",
+        "command": "5MP~HP",
+        "character_id": 9
+      },
+      {
+        "name": "Triple Flash Kicks",
+        "command": "5MK~MK~HK",
+        "character_id": 9
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 9
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 9
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 9
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 9
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 9
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 9
+      },
+      {
+        "name": "Hadoken",
+        "command": "236P",
+        "character_id": 9
+      },
+      {
+        "name": "Shoryuken",
+        "command": "623P",
+        "character_id": 9
+      },
+      {
+        "name": "Tatsumaki Senpu-kyaku",
+        "command": "214K",
+        "character_id": 9
+      },
+      {
+        "name": "Aerial Tatsumaki Senpu-kyaku",
+        "command": "j.214K",
+        "character_id": 9
+      },
+      {
+        "name": "Dragonlash Kick",
+        "command": "623K",
+        "character_id": 9
+      },
+      {
+        "name": "Jinrai Kick",
+        "command": "236K",
+        "character_id": 9
+      },
+      {
+        "name": "Kazekama Shin Kick",
+        "command": "236K~6LK",
+        "character_id": 9
+      },
+      {
+        "name": "Gorai Axe Kick",
+        "command": "236K~6MK",
+        "character_id": 9
+      },
+      {
+        "name": "Senka Snap Kick",
+        "command": "236K~6HK",
+        "character_id": 9
+      },
+      {
+        "name": "Kasai Thrust Kick",
+        "command": "236KK~6K~6K",
+        "character_id": 9
+      },
+      {
+        "name": "Quick Dash",
+        "command": "KK",
+        "character_id": 9
+      },
+      {
+        "name": "Run Normal Followups",
+        "command": "KK~K",
+        "character_id": 9
+      },
+      {
+        "name": "Run Special Followups",
+        "command": "KK~Special",
+        "character_id": 9
+      },
+
+      {
+        "name": "Level 1 Super",
+        "command": "214214K",
+        "character_id": 9
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "236236K",
+        "character_id": 9
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "236236P",
+        "character_id": 9
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 9
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 9
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 9
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 10
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 10
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 10
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 10
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 10
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 10
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 10
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 10
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 10
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 10
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 10
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 10
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 10
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 10
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 10
+      },
+      {
+        "name": "Neutral Jump Heavy Punch",
+        "command": "8j.HP",
+        "character_id": 10
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 10
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 10
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 10
+      },
+      {
+        "name": "Harai Kick",
+        "command": "6HK",
+        "character_id": 10
+      },
+      {
+        "name": "Power Stomp",
+        "command": "3HK",
+        "character_id": 10
+      },
+      {
+        "name": "Flying Sumo Press",
+        "command": "j.2MK",
+        "character_id": 10
+      },
+      {
+        "name": "Double Slaps",
+        "command": "5LP~MP",
+        "character_id": 10
+      },
+      {
+        "name": "Toko Shizume",
+        "command": "5MP~3HK",
+        "character_id": 10
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 10
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 10
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 10
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 10
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 10
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 10
+      },
+      {
+        "name": "Sumo Spirit",
+        "command": "22K",
+        "character_id": 10
+      },
+      {
+        "name": "Hundred Hand Slap",
+        "command": "214P",
+        "character_id": 10
+      },
+      {
+        "name": "Sumo Headbutt",
+        "command": "[4]6P",
+        "character_id": 10
+      },
+      {
+        "name": "Sumo Smash",
+        "command": "[2]8K",
+        "character_id": 10
+      },
+      {
+        "name": "Oicho Throw",
+        "command": "63214K",
+        "character_id": 10
+      },
+      {
+        "name": "Sumo Dash",
+        "command": "236K",
+        "character_id": 10
+      },
+      {
+        "name": "Teppo Triple Slap 1",
+        "command": "236K~P",
+        "character_id": 10
+      },
+      {
+        "name": "Teppo Triple Slap 2",
+        "command": "236K~P~P",
+        "character_id": 10
+      },
+      {
+        "name": "Taiho Cannon Lift",
+        "command": "236K~2P",
+        "character_id": 10
+      },
+      {
+        "name": "Neko Damashi",
+        "command": "22P",
+        "character_id": 10
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236P",
+        "character_id": 10
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "[4]646K",
+        "character_id": 10
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "214214P",
+        "character_id": 10
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 10
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 10
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 10
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 11
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 11
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 11
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 11
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 11
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 11
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 11
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 11
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 11
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 11
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 11
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 11
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 11
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 11
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 11
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 11
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 11
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Uppercut",
+        "command": "4MP",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Lance",
+        "command": "4HP",
+        "character_id": 11
+      },
+      {
+        "name": "Divine Kick",
+        "command": "4MK",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Mountain",
+        "command": "4HK",
+        "character_id": 11
+      },
+      {
+        "name": "Nirvana Punch",
+        "command": "1HP",
+        "character_id": 11
+      },
+      {
+        "name": "Agile Kick",
+        "command": "1LK",
+        "character_id": 11
+      },
+      {
+        "name": "Thrust Kick",
+        "command": "1MK",
+        "character_id": 11
+      },
+      {
+        "name": "Karma Kick",
+        "command": "1HK",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Mummy",
+        "command": "j.2LP",
+        "character_id": 11
+      },
+      {
+        "name": "Drill Kick",
+        "command": "j.2K",
+        "character_id": 11
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 11
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 11
+      },
+      {
+        "name": "Crouch Throw",
+        "command": "2LPLK",
+        "character_id": 11
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 11
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 11
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 11
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Fire",
+        "command": "236P",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Arch",
+        "command": "236K",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Flame",
+        "command": "63214P",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Blast",
+        "command": "63214K",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Comet",
+        "command": "j.63214P",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Float",
+        "command": "2KK",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Teleport",
+        "command": "6/4 + PPP/KKK",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Inferno",
+        "command": "236236P",
+        "character_id": 11
+      },
+      {
+        "name": "Yoga Sunburst",
+        "command": "214214K (HOLD OK)",
+        "character_id": 11
+      },
+      {
+        "name": "Merciless Yoga",
+        "command": "236236K",
+        "character_id": 11
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 11
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 11
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 11
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 12
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 12
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 12
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 12
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 12
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 12
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 12
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 12
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 12
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 12
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 12
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 12
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 12
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 12
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 12
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 12
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 12
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 12
+      },
+      {
+        "name": "Elbow Drop",
+        "command": "j.2MP",
+        "character_id": 12
+      },
+      {
+        "name": "Water Slicer Slide",
+        "command": "3MK",
+        "character_id": 12
+      },
+      {
+        "name": "Windmill Kick",
+        "command": "4HK",
+        "character_id": 12
+      },
+      {
+        "name": "Hisen Kick",
+        "command": "6HK",
+        "character_id": 12
+      },
+      {
+        "name": "Hisen Kick~Step Up",
+        "command": "6HK~8/9/7",
+        "character_id": 12
+      },
+      {
+        "name": "Bushin Prism Strikes",
+        "command": "5LP~MP~HP~HK",
+        "character_id": 12
+      },
+      {
+        "name": "Bushin Hellchain",
+        "command": "5LP~MP~2HP~(HK/2HK)",
+        "character_id": 12
+      },
+      {
+        "name": "Bushin Tiger Fangs",
+        "command": "5MP~HP",
+        "character_id": 12
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 12
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 12
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 12
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 12
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 12
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 12
+      },
+      {
+        "name": "Bushin Senpukyaku",
+        "command": "214K",
+        "character_id": 12
+      },
+      {
+        "name": "Aerial Bushin Senpukyaku",
+        "command": "j.214K",
+        "character_id": 12
+      },
+      {
+        "name": "Vagabond Edge",
+        "command": "236P",
+        "character_id": 12
+      },
+      {
+        "name": "Sprint",
+        "command": "236K",
+        "character_id": 12
+      },
+      {
+        "name": "Emergency Stop",
+        "command": "236K~LP",
+        "character_id": 12
+      },
+      {
+        "name": "Torso Cleaver",
+        "command": "236K~LK",
+        "character_id": 12
+      },
+      {
+        "name": "Shadow Slide",
+        "command": "236K~MK",
+        "character_id": 12
+      },
+      {
+        "name": "Neck Hunter",
+        "command": "236K~HK",
+        "character_id": 12
+      },
+      {
+        "name": "Arc Step",
+        "command": "236K proximity",
+        "character_id": 12
+      },
+      {
+        "name": "Bushin Hojin Kick",
+        "command": "236K proximity~K",
+        "character_id": 12
+      },
+      {
+        "name": "Bushin Izuna Otoshi",
+        "command": "236K proximity~P",
+        "character_id": 12
+      },
+      {
+        "name": "Hidden Variable",
+        "command": "214P",
+        "character_id": 12
+      },
+      {
+        "name": "Shuriken Bomb",
+        "command": "22P",
+        "character_id": 12
+      },
+      {
+        "name": "Genius at Play",
+        "command": "22P refill",
+        "character_id": 12
+      },
+      {
+        "name": "Nue Twister",
+        "command": "j.236P",
+        "character_id": 12
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236K",
+        "character_id": 12
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "214214P",
+        "character_id": 12
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "236236P",
+        "character_id": 12
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 12
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 12
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 12
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 13
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 13
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 13
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 13
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 13
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 13
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 13
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 13
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 13
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 13
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 13
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 13
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 13
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 13
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 13
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 13
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 13
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 13
+      },
+      {
+        "name": "Sunrise Heel",
+        "command": "",
+        "character_id": 13
+      },
+      {
+        "name": "Face Breaker",
+        "command": "4HK",
+        "character_id": 13
+      },
+      {
+        "name": "Knee Shot",
+        "command": "j.2LK",
+        "character_id": 13
+      },
+      {
+        "name": "Threebeat Combo",
+        "command": "5LP~MK~MK",
+        "character_id": 13
+      },
+      {
+        "name": "Dee Jay Special",
+        "command": "5MP~HP~HK",
+        "character_id": 13
+      },
+      {
+        "name": "Funky Dance",
+        "command": "5MP~MP~HP/4HP",
+        "character_id": 13
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 13
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 13
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 13
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 13
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 13
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 13
+      },
+      {
+        "name": "Air Slasher",
+        "command": "[4]6P",
+        "character_id": 13
+      },
+      {
+        "name": "Jackknife Maximum",
+        "command": "[2]8K",
+        "character_id": 13
+      },
+      {
+        "name": "Rolling Sobat",
+        "command": "236K",
+        "character_id": 13
+      },
+      {
+        "name": "Machine Gun Uppercut",
+        "command": "214P",
+        "character_id": 13
+      },
+      {
+        "name": "Jus Cool",
+        "command": "214K",
+        "character_id": 13
+      },
+      {
+        "name": "Funky Slicer",
+        "command": "214K~LK",
+        "character_id": 13
+      },
+      {
+        "name": "Waning Moon",
+        "command": "214K~MK",
+        "character_id": 13
+      },
+      {
+        "name": "Maximum Strike",
+        "command": "214K~HK",
+        "character_id": 13
+      },
+      {
+        "name": "Juggling Dash/Sway",
+        "command": "214K~6P~4P",
+        "character_id": 13
+      },
+      {
+        "name": "Speedy Maracas",
+        "command": "22PP",
+        "character_id": 13
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236K",
+        "character_id": 13
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "236236P",
+        "character_id": 13
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "214214P",
+        "character_id": 13
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 13
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 13
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 13
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 14
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 14
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 14
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 14
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 14
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 14
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 14
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 14
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 14
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 14
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 14
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 14
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 14
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 14
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 14
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 14
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 14
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 14
+      },
+      {
+        "name": "Collarbone Breaker",
+        "command": "6MP",
+        "character_id": 14
+      },
+      {
+        "name": "Solar Plexus Strike",
+        "command": "6HP",
+        "character_id": 14
+      },
+      {
+        "name": "Short Uppercut",
+        "command": "4HP",
+        "character_id": 14
+      },
+      {
+        "name": "Whirlwind Kick",
+        "command": "6HK",
+        "character_id": 14
+      },
+      {
+        "name": "Axe Kick",
+        "command": "4HK",
+        "character_id": 14
+      },
+      {
+        "name": "High Double Strike",
+        "command": "5HP~HK",
+        "character_id": 14
+      },
+      {
+        "name": "Fuwa Triple Strike",
+        "command": "5MP~LK~HK",
+        "character_id": 14
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 14
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 14
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 14
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 14
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 14
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 14
+      },
+      {
+        "name": "Denjin Charge",
+        "command": "22P",
+        "character_id": 14
+      },
+      {
+        "name": "Hadoken",
+        "command": "236P",
+        "character_id": 14
+      },
+      {
+        "name": "Hadoken (Denjin)",
+        "command": "Denjin 236P",
+        "character_id": 14
+      },
+      {
+        "name": "Shoryuken",
+        "command": "623P",
+        "character_id": 14
+      },
+      {
+        "name": "Tatsumaki Senpu-kyaku",
+        "command": "214K",
+        "character_id": 14
+      },
+      {
+        "name": "Aerial Tatsumaki Senpu-kyaku",
+        "command": "j.214K",
+        "character_id": 14
+      },
+      {
+        "name": "High Blade Kick",
+        "command": "236K",
+        "character_id": 14
+      },
+      {
+        "name": "Hashogeki",
+        "command": "214P",
+        "character_id": 14
+      },
+      {
+        "name": "Hashogeki (Denjin)",
+        "command": "Denjin 214P",
+        "character_id": 14
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236P",
+        "character_id": 14
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "214214P",
+        "character_id": 14
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "236236K",
+        "character_id": 14
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 14
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 14
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 14
+      },
+      {
+        "name": "Down Taunt",
+        "command": "2PPPKKK",
+        "character_id": 14
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 15
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 15
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 15
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 15
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 15
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 15
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 15
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 15
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 15
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 15
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 15
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 15
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 15
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 15
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 15
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 15
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 15
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 15
+      },
+      {
+        "name": "Neutral Jumping Heavy Kick",
+        "command": "8j.HK",
+        "character_id": 15
+      },
+      {
+        "name": "Wall Jump",
+        "command": "9 (against wall)",
+        "character_id": 15
+      },
+      {
+        "name": "Swift Thrust",
+        "command": "4MP or 6MP",
+        "character_id": 15
+      },
+      {
+        "name": "Hakkei",
+        "command": "4HP",
+        "character_id": 15
+      },
+      {
+        "name": "Water Lotus Fist",
+        "command": "3HP",
+        "character_id": 15
+      },
+      {
+        "name": "Yokusen Kick",
+        "command": "6HK",
+        "character_id": 15
+      },
+      {
+        "name": "Falling Crane",
+        "command": "3HK",
+        "character_id": 15
+      },
+      {
+        "name": "Yoso Kick",
+        "command": "j.2MK",
+        "character_id": 15
+      },
+      {
+        "name": "Soaring Eagle Punches",
+        "command": "j.HP~j.HP",
+        "character_id": 15
+      },
+      {
+        "name": "Yoso Kick Chain",
+        "command": "j.2MK~j.2MK~j.2MK",
+        "character_id": 15
+      },
+      {
+        "name": "Serenity Stream",
+        "command": "214P",
+        "character_id": 15
+      },
+      {
+        "name": "Serenity Stream Exit",
+        "command": "214P~214P",
+        "character_id": 15
+      },
+      {
+        "name": "Orchid Palm",
+        "command": "214P~LP",
+        "character_id": 15
+      },
+      {
+        "name": "Snake Strike",
+        "command": "214P~MP",
+        "character_id": 15
+      },
+      {
+        "name": "Lotus Fist",
+        "command": "214P~HP",
+        "character_id": 15
+      },
+      {
+        "name": "Forward Strike",
+        "command": "214P~LK",
+        "character_id": 15
+      },
+      {
+        "name": "Senpu Kick",
+        "command": "214P~MK",
+        "character_id": 15
+      },
+      {
+        "name": "Tenku Kick",
+        "command": "214P~HK",
+        "character_id": 15
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 15
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 15
+      },
+      {
+        "name": "Air Throw",
+        "command": "LPLK Air",
+        "character_id": 15
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 15
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 15
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 15
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 15
+      },
+      {
+        "name": "Kikoken",
+        "command": "[4]6P",
+        "character_id": 15
+      },
+      {
+        "name": "Hundred Lightning Kicks",
+        "command": "236K",
+        "character_id": 15
+      },
+      {
+        "name": "Aerial Hundred Lightning Kicks",
+        "command": "j.236K",
+        "character_id": 15
+      },
+      {
+        "name": "Spinning Bird Kick",
+        "command": "[2]8K",
+        "character_id": 15
+      },
+      {
+        "name": "Hazanshu",
+        "command": "214K",
+        "character_id": 15
+      },
+      {
+        "name": "Tensho Kicks",
+        "command": "22K",
+        "character_id": 15
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236P",
+        "character_id": 15
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "236236K",
+        "character_id": 15
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "214214K",
+        "character_id": 15
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 15
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 15
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 15
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 16
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 16
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 16
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 16
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 16
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 16
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 16
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 16
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 16
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 16
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 16
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 16
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 16
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 16
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 16
+      },
+      {
+        "name": "Neutral Jumping Heavy Punch",
+        "command": "8j.HP",
+        "character_id": 16
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 16
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 16
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 16
+      },
+      {
+        "name": "Rock Crusher",
+        "command": "6MP",
+        "character_id": 16
+      },
+      {
+        "name": "Double Knee Bombs",
+        "command": "6MK",
+        "character_id": 16
+      },
+      {
+        "name": "Wild Edge",
+        "command": "4MK",
+        "character_id": 16
+      },
+      {
+        "name": "Wild Nail",
+        "command": "6HP",
+        "character_id": 16
+      },
+      {
+        "name": "Amazon River Run",
+        "command": "3HP",
+        "character_id": 16
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 16
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 16
+      },
+      {
+        "name": "Air Throw",
+        "command": "LPLK Air",
+        "character_id": 16
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 16
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 16
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 16
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 16
+      },
+      {
+        "name": "Electric Thunder",
+        "command": "214P",
+        "character_id": 16
+      },
+      {
+        "name": "Rolling Attack",
+        "command": "[4]6P",
+        "character_id": 16
+      },
+      {
+        "name": "Aerial Rolling Attack",
+        "command": "j.[4]6P",
+        "character_id": 16
+      },
+      {
+        "name": "Vertical Rolling Attack",
+        "command": "[2]8K",
+        "character_id": 16
+      },
+      {
+        "name": "Backstep Rolling Attack",
+        "command": "63214K",
+        "character_id": 16
+      },
+      {
+        "name": "Wild Hunt",
+        "command": "236K",
+        "character_id": 16
+      },
+      {
+        "name": "Blanka-chan Bomb",
+        "command": "22P",
+        "character_id": 16
+      },
+      {
+        "name": "Coward Crouch",
+        "command": "2PP",
+        "character_id": 16
+      },
+      {
+        "name": "Surprise Hop",
+        "command": "6KKK/4KKK",
+        "character_id": 16
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236P",
+        "character_id": 16
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "214214P",
+        "character_id": 16
+      },
+      {
+        "name": "Rolling Cannon",
+        "command": "Direction+P",
+        "character_id": 16
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "236236K",
+        "character_id": 16
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 16
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 16
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 16
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 17
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 17
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 17
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 17
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 17
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 17
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 17
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 17
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 17
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 17
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 17
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 17
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 17
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 17
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 17
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 17
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 17
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 17
+      },
+      {
+        "name": "Hellstab",
+        "command": "3MP",
+        "character_id": 17
+      },
+      {
+        "name": "Knee Hammer",
+        "command": "6MK",
+        "character_id": 17
+      },
+      {
+        "name": "Headbutt",
+        "command": "6HP",
+        "character_id": 17
+      },
+      {
+        "name": "Cyclone Wheel Kick",
+        "command": "6HK",
+        "character_id": 17
+      },
+      {
+        "name": "Smetana Dropkick",
+        "command": "3HK",
+        "character_id": 17
+      },
+      {
+        "name": "Power Stomp",
+        "command": "22MK",
+        "character_id": 17
+      },
+      {
+        "name": "Flying Body Press",
+        "command": "j.2HP",
+        "character_id": 17
+      },
+      {
+        "name": "Flying Headbutt",
+        "command": "j.8HP",
+        "character_id": 17
+      },
+      {
+        "name": "Machine Gun Chops",
+        "command": "5MP~MP~MP",
+        "character_id": 17
+      },
+      {
+        "name": "Power Stomps",
+        "command": "22MK~MK~MK",
+        "character_id": 17
+      },
+      {
+        "name": "Neutral Throw",
+        "command": "5LPLK",
+        "character_id": 17
+      },
+      {
+        "name": "Forward Throw",
+        "command": "6LPLK",
+        "character_id": 17
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 17
+      },
+      {
+        "name": "Neutral Crouch Throw",
+        "command": "2LPLK",
+        "character_id": 17
+      },
+      {
+        "name": "Forward Crouch Throw",
+        "command": "3LPLK",
+        "character_id": 17
+      },
+      {
+        "name": "Back Crouch Throw",
+        "command": "1LPLK",
+        "character_id": 17
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 17
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 17
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 17
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 17
+      },
+      {
+        "name": "Double Lariat",
+        "command": "PP",
+        "character_id": 17
+      },
+      {
+        "name": "Screw Piledriver",
+        "command": "360+P",
+        "character_id": 17
+      },
+      {
+        "name": "Borscht Dynamite",
+        "command": "j.360+K",
+        "character_id": 17
+      },
+      {
+        "name": "Russian Suplex",
+        "command": "63214K (Close)",
+        "character_id": 17
+      },
+      {
+        "name": "Siberian Express",
+        "command": "63214K (Far)",
+        "character_id": 17
+      },
+      {
+        "name": "Tundra Storm",
+        "command": "22HK",
+        "character_id": 17
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236K",
+        "character_id": 17
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "236236P",
+        "character_id": 17
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "720+P",
+        "character_id": 17
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 17
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 17
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 17
+      },
+      {
+        "name": "Down Taunt",
+        "command": "2PPPKKK",
+        "character_id": 17
+      },
+    {
+        "name": "Standing Light Punch",
+        "command": "5LP",
+        "character_id": 18
+      },
+      {
+        "name": "Standing Medium Punch",
+        "command": "5MP",
+        "character_id": 18
+      },
+      {
+        "name": "Standing Heavy Punch",
+        "command": "5HP",
+        "character_id": 18
+      },
+      {
+        "name": "Standing Light Kick",
+        "command": "5LK",
+        "character_id": 18
+      },
+      {
+        "name": "Standing Medium Kick",
+        "command": "5MK",
+        "character_id": 18
+      },
+      {
+        "name": "Standing Heavy Kick",
+        "command": "5HK",
+        "character_id": 18
+      },
+      {
+        "name": "Crouching Light Punch",
+        "command": "2LP",
+        "character_id": 18
+      },
+      {
+        "name": "Crouching Medium Punch",
+        "command": "2MP",
+        "character_id": 18
+      },
+      {
+        "name": "Crouching Heavy Punch",
+        "command": "2HP",
+        "character_id": 18
+      },
+      {
+        "name": "Crouching Light Kick",
+        "command": "2LK",
+        "character_id": 18
+      },
+      {
+        "name": "Crouching Medium Kick",
+        "command": "2MK",
+        "character_id": 18
+      },
+      {
+        "name": "Crouching Heavy Kick",
+        "command": "2HK",
+        "character_id": 18
+      },
+      {
+        "name": "Jumping Light Punch",
+        "command": "j.LP",
+        "character_id": 18
+      },
+      {
+        "name": "Jumping Medium Punch",
+        "command": "j.MP",
+        "character_id": 18
+      },
+      {
+        "name": "Jumping Heavy Punch",
+        "command": "j.HP",
+        "character_id": 18
+      },
+      {
+        "name": "Jumping Light Kick",
+        "command": "j.LK",
+        "character_id": 18
+      },
+      {
+        "name": "Jumping Medium Kick",
+        "command": "j.MK",
+        "character_id": 18
+      },
+      {
+        "name": "Jumping Heavy Kick",
+        "command": "j.HK",
+        "character_id": 18
+      },
+      {
+        "name": "Lift Uppercut",
+        "command": "4MP",
+        "character_id": 18
+      },
+      {
+        "name": "Delayed Ripper",
+        "command": "6HK",
+        "character_id": 18
+      },
+      {
+        "name": "Assault Blade",
+        "command": "4HK",
+        "character_id": 18
+      },
+      {
+        "name": "Lift Combination",
+        "command": "4MP~HK",
+        "character_id": 18
+      },
+      {
+        "name": "Swing Combination",
+        "command": "5HP~HK",
+        "character_id": 18
+      },
+      {
+        "name": "Forward Throw",
+        "command": "LPLK",
+        "character_id": 18
+      },
+      {
+        "name": "Back Throw",
+        "command": "4LPLK",
+        "character_id": 18
+      },
+      {
+        "name": "Air Throw",
+        "command": "LPLK Air",
+        "character_id": 18
+      },
+      {
+        "name": "Drive Impact",
+        "command": "HPHK",
+        "character_id": 18
+      },
+      {
+        "name": "Drive Reversal",
+        "command": "6HPHK",
+        "character_id": 18
+      },
+      {
+        "name": "Drive Parry",
+        "command": "MPMK",
+        "character_id": 18
+      },
+      {
+        "name": "Drive Rush",
+        "command": "66",
+        "character_id": 18
+      },
+      {
+        "name": "Spiral Arrow",
+        "command": "236K",
+        "character_id": 18
+      },
+      {
+        "name": "Cannon Spike",
+        "command": "623K",
+        "character_id": 18
+      },
+      {
+        "name": "Quick Spin Knuckle",
+        "command": "214P",
+        "character_id": 18
+      },
+      {
+        "name": "Cannon Strike",
+        "command": "j.214K",
+        "character_id": 18
+      },
+      {
+        "name": "Hooligan Combination",
+        "command": "236P",
+        "character_id": 18
+      },
+      {
+        "name": "Razor's Edge Slicer",
+        "command": "236P~No Input",
+        "character_id": 18
+      },
+      {
+        "name": "Hooligan Cannon Strike",
+        "command": "236P~K",
+        "character_id": 18
+      },
+      {
+        "name": "Reverse Edge",
+        "command": "236P~2K",
+        "character_id": 18
+      },
+      {
+        "name": "Fatal Leg Twister",
+        "command": "236P~LPLK",
+        "character_id": 18
+      },
+      {
+        "name": "Silent Step",
+        "command": "236P~P",
+        "character_id": 18
+      },
+      {
+        "name": "Level 1 Super",
+        "command": "236236K",
+        "character_id": 18
+      },
+      {
+        "name": "Level 2 Super",
+        "command": "214214K",
+        "character_id": 18
+      },
+      {
+        "name": "Level 3 Super",
+        "command": "236236P",
+        "character_id": 18
+      },
+      {
+        "name": "Neutral Taunt",
+        "command": "5PPPKKK",
+        "character_id": 18
+      },
+      {
+        "name": "Forward Taunt",
+        "command": "6PPPKKK",
+        "character_id": 18
+      },
+      {
+        "name": "Back Taunt",
+        "command": "4PPPKKK",
+        "character_id": 18
+      }
+]
+}

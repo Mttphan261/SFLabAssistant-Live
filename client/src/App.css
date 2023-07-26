@@ -1,0 +1,395 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap");
+
+:root {
+  --argBlue: #6ab0ff;
+  --pumpkin: #ff8b43;
+  --steelPink: #c200cc;
+  --grey: #efefef;
+}
+
+body {
+  background-color: var(--grey);
+  margin-bottom: 100px;
+}
+
+* {
+  font-family: "Oswald", sans-serif;
+}
+
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+/* html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+  overflow-x: hidden;
+}
+
+.App {
+  min-height: 100vh;
+  width: 100vw;
+}
+
+/* HOME PAGE */
+
+/*Roster Icon Splatter Image */
+
+.rosterIcon {
+  width: 100%;
+  /* position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+
+.profileRosterIcon {
+  width: 75%;
+  /* position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+
+.outer-image {
+  /* position: relative; */
+  display: inline-block;
+}
+
+.circle {
+  /* display:none; */
+  /* position: absolute;
+  top: 100px;
+  left: 100px;
+  z-index: 800; */
+  position: relative;
+  background: #f49b21;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%; /*320px */
+  -webkit-animation-name: zoomIn;
+  animation-name: zoomIn;
+  -webkit-animation-duration: 0.2s;
+  animation-duration: 0.3s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.content {
+  position: relative;
+  top: 50px;
+  width: 100%;
+  text-align: center;
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.5s;
+}
+
+.splatter {
+  position: absolute;
+  top: 0;
+  left: -34%;
+  width: 175%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out,
+    left 0.1s ease-in-out;
+  transform: scale(1.3);
+  /* -webkit-animation-name: zoomIn;
+  animation-name: zoomIn;
+  -webkit-animation-duration: .2s;
+  animation-duration: .2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; 
+  -webkit-animation-delay: 0.1s;
+  animation-delay: 0.1s;  */
+}
+
+.circle:hover .splatter {
+  opacity: 1;
+  left: -27%;
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes zoomIn {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(0.3, 0.3, 0.3);
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes zoomIn {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(0.3, 0.3, 0.3);
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+.zoomIn {
+  -webkit-animation-name: zoomIn;
+  animation-name: zoomIn;
+}
+
+/*Roster Icon Splatter Image */
+
+.home-jumbotron {
+  width: 100%;
+  height: 60vh;
+  background-image: url("https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/HomePage/sf6rosterart.png");
+  /* opacity: 0.85; */
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-jumbotron {
+  width: 100%;
+  height: 60vh;
+  background-image: url("https://raw.githubusercontent.com/Mttphan261/SFLabAssistant/main/.github/imgs/SignupPage/luke%20world%20tour.png");
+  /* opacity: 0.85; */
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.feature-box {
+  padding-top: 20px;
+}
+
+.feature-icon {
+  font-size: 35px;
+  color: var(--RX78-blue);
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* HOME PAGE */
+
+/*FIGHTER PAGE*/
+
+.video-library-section,
+.user-video-library-section {
+  color: #888888;
+  font-size: 14px;
+  cursor: pointer;
+  order: 2;
+  position: relative;
+}
+
+.user-video-library-section.active,
+.video-library-section.active {
+  color: #000000;
+  font-size: 25px;
+  cursor: pointer;
+  font-weight: 700;
+  order: 1;
+  position: relative;
+}
+
+/* TESTING */
+
+.player-wrapper {
+  width: auto;
+  height: auto;
+}
+
+/* .react-player {
+  padding-top: 56.25%; 
+  margin-top: 56.26%;
+  position: relative; 
+  justify-content: flex-start;
+} */
+
+/* .react-player > div {
+  position: absolute; 
+} */
+
+/* TESTING */
+
+.teddytest {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.teddytest .react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.seperator {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*FIGHTER PAGE*/
+.commands-list {
+  justify-content: flex-end;
+}
+
+.accordion-body {
+  max-height: 450px;
+  overflow-y: auto;
+}
+
+.note-cell {
+  word-break: break-word;
+}
+
+/* .fixed-search-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  z-index: 999; 
+  padding: 10px; 
+} */
+
+/*SIGNUP */
+.form-field {
+  /* width: 30%; */
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  font: 16px;
+}
+
+.signup-image-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+.signup-image {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  object-position: 28%;
+}
+/* .form-styling {
+  display: flex;
+  justify-content: center;
+} */
+
+.test {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
+}
+/*SIGNUP */
+
+.profile-greeting {
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  font-weight: 1000;
+  margin-bottom: 300px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+@media (max-width: 576px) {
+  .signup-image {
+    width: 100%;
+    height: unset;
+    object-fit: cover;
+    object-position: 28%;
+  }
+
+  .home-jumbotron {
+    height: unset
+  }
+  .profile-greeting {
+    margin-bottom: unset;
+  }
+  .profile-jumbotron {
+    height: unset;
+  }
+  .profile-roster {
+    flex: none;
+  }
+}

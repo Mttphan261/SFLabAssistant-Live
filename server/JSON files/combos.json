@@ -1,0 +1,439 @@
+{
+    "combos": [
+        {
+            "name": "Light Confirm",
+            "notation": "2LK, 2LP, (2LP) > 214LP~6P",
+            "character_id": 1 
+        },
+        {
+            "name": "5MP Target Combo Midscreen Drive Combo",
+            "notation": "5MP~MP > 214PP~6P, 236MK (2 Drive)",
+            "character_id": 1 
+        },
+        {
+            "name": "HK Punish Counter",
+            "notation": "HK > 236LK/SA1",
+            "character_id": 1 
+        },
+        {
+            "name": "4HP Super Art Extension",
+            "notation": "4HP > 214HP~6P, 236LK > 236236K",
+            "character_id": 1 
+        },
+        {
+            "name": "s.LK Punish Counter",
+            "notation": "5LK > Drive Rush Cancel > 2LP, 5MP~MP > 214MP~6P (3 Drive)",
+            "character_id": 1 
+        },
+        {
+            "name": "All-Purpose Combo",
+            "notation": "j.HK/PC Drive Impact, 4HP > 236MP",
+            "character_id": 2 
+        },
+        {
+            "name": "Light Confirm",
+            "notation": "2LP 2LP 236HK",
+            "character_id": 2 
+        },
+        {
+            "name": "High Launcher",
+            "notation": "j.HK, 4HP > 236KK, 236KK, 214MK, 214214K",
+            "character_id": 2 
+        },
+        {
+            "name": "Projectile Punish",
+            "notation": "PC 236P~K, 236HK(2nd), 214MK",
+            "character_id": 2 
+        },
+        {
+            "name": "Anti-Air Punish",
+            "notation": "(236KK,) 236HK, 214MK",
+            "character_id": 2 
+        },
+        {
+            "name": "Rekka BNB",
+            "notation": "c.LK > c.LP > LK XX QCF.LP-F+K-F+K",
+            "character_id": 3
+        },
+        {
+            "name": "Rekka Drink Level 2",
+            "notation": "MP > LP-LK-MP XX QCF.LK",
+            "character_id": 3
+        },
+        {
+            "name": "SA2 Extension",
+            "notation": "F.HK XX Level 2 Super > c.HP XX QCB.HP-F+P",
+            "character_id": 3
+        },
+        {
+            "name": "Low Light Confirm",
+            "notation": "2LK, 2LP, 5LK",
+            "character_id": 4
+        },
+        {
+            "name": "Mid Confirm",
+            "notation": "4/6MK,2LP xx 28 HK",
+            "character_id": 4
+        },
+        {
+            "name": "Heavy Confirm",
+            "notation": "6HP > 2LP > 2LP xx 28HK",
+            "character_id": 4
+        },
+        {
+            "name": "Corner DI wall splat",
+            "notation": "4HP > [4]6P, [2]8HK",
+            "character_id": 4
+        },
+        {
+            "name": "Drive Rush SA3",
+            "notation": "2LP, 5HP > DR~6MK, 2MP, 28HK > SA3",
+            "character_id": 4
+        },
+        {
+            "name": "Light Confirm",
+            "notation": "2LK ~ 2LP ~ 2LP > 236LP",
+            "character_id": 5
+        },
+        {
+            "name": "Meterless Midscreen BNB",
+            "notation": "5HK, 2MP > 236MP",
+            "character_id": 5
+        },
+        {
+            "name": "Basic Punish Counter",
+            "notation": "5HP(PC) > dl DR 5HP > 236HP > 236MK > 22HP",
+            "character_id": 5
+        },
+        {
+            "name": "Medium Drive Rush",
+            "notation": "5HK, 2MP > Drive Rush, 2HP > 236HP, 236MK, 22HP",
+            "character_id": 5
+        },
+        {
+            "name": "Drive Impact Oki",
+            "notation": "DI > 6HK > 236MP > 5HP > 236KK > 22P > 214P(oki)",
+            "character_id": 5
+        },
+        {
+            "name": "2P BNB",
+            "notation": "2MP, 2LP > 214LP",
+            "character_id": 6
+        },
+        {
+            "name": "Light Confirm",
+            "notation": "5LP~MP~HP > 214HP",
+            "character_id": 6
+        },
+        {
+            "name": "Basic Jump-in",
+            "notation": "j.HK > 2HP > 214[LP], 214MP",
+            "character_id": 6
+        },
+        {
+            "name": "Target Combo",
+            "notation": "5LP~MP~HP > 214HP",
+            "character_id": 6
+        },
+        {
+            "name": "Punish SA3",
+            "notation": "PC 4HK, 5HP > 214HP > 236236K",
+            "character_id": 6
+        },
+        {
+            "name": "Light Confirm",
+            "notation": "2LK 2LP 2LP > 214MK",
+            "character_id": 7
+        },
+        {
+            "name": "Jump-In Combo",
+            "notation": "j.HK, 5MP, 2MP > 214MK",
+            "character_id": 7
+        },
+        {
+            "name": "Drive Impact Combo",
+            "notation": "PC DI, 5MP, 2MP > 214MK",
+            "character_id": 7
+        },
+        {
+            "name": "Feng Shui Engine BNB",
+            "notation": "FSE > 6MP > 5HK > 5HP > 236HK, 623HP",
+            "character_id": 7
+        },
+        {
+            "name": "Feng Shui Engine Corner",
+            "notation": "FSE > 5MK > 5HK > 2HP > jc.MP > j.HP > j.HK > j.214K~K",
+            "character_id": 7
+        },
+        {
+            "name": "Light Starter",
+            "notation": "5LK > 2LP > *623P",
+            "character_id": 8
+        },
+        {
+            "name": "Medium Starter",
+            "notation": "MK > *236LK / W.236HK",
+            "character_id": 8
+        },
+        {
+            "name": "Heavy Starter",
+            "notation": "HP > 214PP > (236236K)",
+            "character_id": 8
+        },
+        {
+            "name": "Drive Rush Super",
+            "notation": "DR~4HP/2LP/5LP, 2MP > Super",
+            "character_id": 8
+        },
+        {
+            "name": "Light Confirm ",
+            "notation": "2LP, 214LK, > 623MP/623LP",
+            "character_id": 9
+        },
+        {
+            "name": "Heavy Confirm",
+            "notation": "5HP > 623HP",
+            "character_id": 9
+        },
+        {
+            "name": "Heavy Jump-In Corner",
+            "notation": "j.HP, 2HP > 236HK > dl.6LK, 236LK > 6LK, 623HP",
+            "character_id": 9
+        },
+        {
+            "name": "Punish Counter Meterless",
+            "notation": "KK > 214K, 2MP > 214LK, 623MP",
+            "character_id": 9
+        },
+        {
+            "name": "Jinrai Loop",
+            "notation": "5MP ~ 5HP > 236LK > dl.6LK, 236LK > 6LK, 623HP",
+            "character_id": 9
+        },
+        {
+            "name": "Light Confirm",
+            "notation": "2LK/2LP > 2LP > 214LP",
+            "character_id": 10
+        },
+        {
+            "name": "5LP Target Combo",
+            "notation": "(5LK,) 5LP > 5MP > 214HP",
+            "character_id": 10
+        },
+        {
+            "name": "Medium Confirm",
+            "notation": "5MP (close), 2LP > 214LP",
+            "character_id": 10
+        },
+        {
+            "name": "Enhanced Hands BNB",
+            "notation": "2LK > 2LP > 22P > 214MP, 2LP > [4]6MP",
+            "character_id": 10
+        },
+        {
+            "name": "Heavy Into Super",
+            "notation": "5HK(1) > 236K~2P, e.214HP, 236236P",
+            "character_id": 10
+        },
+        {
+            "name": "Light Confirm",
+            "notation": "24LK, 2LP>26PP",
+            "character_id": 11
+        },
+        {
+            "name": "Medium Confirm",
+            "notation": "4MP>63214HK, 1HK",
+            "character_id": 11
+        },
+        {
+            "name": "Drive Impact Punish",
+            "notation": "DI, 4HP~4HP, 63214MP+HP, HK, SA1",
+            "character_id": 11
+        },
+        {
+            "name": "Basic Teleport Combo",
+            "notation": "8PPP/KKK (instant), 6LP, 4MK>63214HK/63214MP",
+            "character_id": 11
+        },
+        {
+            "name": "Drive Impact Counter",
+            "notation": "(in-air) 2LK/MK/HK in front of opponent or at tip of feet, 2LP, 2LP, 2LP",
+            "character_id": 11
+        },
+        {
+            "name": "Light Confirm",
+            "notation": "2LK, 2LP, 5LP",
+            "character_id": 12
+        },
+        {
+            "name": "Medium Confirm",
+            "notation": "2MP, 5MP~HP > 214HK",
+            "character_id": 12
+        },
+        {
+            "name": "Heavy Confirm",
+            "notation": "5HP > 236HP, j.MP > j.214K",
+            "character_id": 12
+        },
+        {
+            "name": "Drive Impact Wallsplat",
+            "notation": "2HP > 236K~LK, instant j.236P",
+            "character_id": 12
+        },
+        {
+            "name": "Light Into SA3",
+            "notation": "2LK, 2LP > 236LP > Lv.3 Super",
+            "character_id": 12
+        },
+        {
+            "name": "Sunrise Heel",
+            "notation": "6MK, 5LK, 214LP > 214214P",
+            "character_id": 13
+        },
+        {
+            "name": "Counter Hit Sunrise Heel",
+            "notation": "CH 6MK, 2MP, 214LP > 214214P",
+            "character_id": 13
+        },
+        {
+            "name": "Punish Counter Heavy",
+            "notation": "PC 2HP, 5HP, 214MP > 214214P",
+            "character_id": 13
+        },
+        {
+            "name": "Punish Counter Light",
+            "notation": "5LP > 214LP > 214214P",
+            "character_id": 13
+        },
+        {
+            "name": "Punish Counter Greatest Sobat",
+            "notation": "PC 236236K, 5HP, 214PP",
+            "character_id": 13
+        },
+        {
+            "name": "Light Confirm",
+            "notation": "2LK ~ 2LP ~ 5LP > 214LK/623HP",
+            "character_id": 14
+        },
+        {
+            "name": "Medium Confirm",
+            "notation": "2MK > 214MK/236MK",
+            "character_id": 14
+        },
+        {
+            "name": "Heavy Confirm",
+            "notation": "6HP, 2MP > 214MK/623HP",
+            "character_id": 14
+        },
+        {
+            "name": "Drive Rush BNB",
+            "notation": "DR, 6MP, 5MP > 214MK/236MK/623HP",
+            "character_id": 14
+        },
+        {
+            "name": "Max Punish/Stun SA3",
+            "notation": "jHP/jHK, 5HP > DRC, 5HK, 5HP > DRC, 5HP, 4HP > 236HK, 623LP, 236236K",
+            "character_id": 14
+        },
+        {
+            "name": "Jump-In",
+            "notation": "j.HK, 2HP > 214P~LK > 28MK",
+            "character_id": 15
+        },
+        {
+            "name": "Light Confirm With Charge",
+            "notation": "2LK 2LP 2LP > [2]8LK",
+            "character_id": 15
+        },
+        {
+            "name": "Spinning Bird BNB",
+            "notation": "light normals/214P~LP > [2]8LK",
+            "character_id": 15
+        },
+        {
+            "name": "Drive Impact BNB",
+            "notation": "DI, 5HK > 214P~MK > 28MK",
+            "character_id": 15
+        },
+        {
+            "name": "4HP > Serenity Stream",
+            "notation": "4HP > 214P~LK/214P~HK",
+            "character_id": 15
+        },
+        {
+            "name": "Light Confirm ",
+            "notation": "2LK~2LP>214P/[4]6MP",
+            "character_id": 16
+        },
+        {
+            "name": "Medium Confirm",
+            "notation": "4MK,2MK>214P/[4]6MP",
+            "character_id": 16
+        },
+        {
+            "name": "Heavy Confirm",
+            "notation": "5HP>22PP~P,214P/[2]8MK",
+            "character_id": 16
+        },
+        {
+            "name": "Drive Impact BNB",
+            "notation": "DI,5HP>22PP~P,[2]8MK/236236P",
+            "character_id": 16
+        },
+        {
+            "name": "Drive Rush Overhead Starter",
+            "notation": "DR>6MP,5HK,5LP>[4]6MP",
+            "character_id": 16
+        },
+        {
+            "name": "Light Confirm into Lariat",
+            "notation": "2LK > 2LP > PP",
+            "character_id": 17
+        },
+        {
+            "name": "Heavy Confirm",
+            "notation": "6HP, 2LP > PPP",
+            "character_id": 17
+        },
+        {
+            "name": "SA2 Juggle",
+            "notation": "6HP > SA2[P], jump j.360KK",
+            "character_id": 17
+        },
+        {
+            "name": "Punish Counter Jump-In",
+            "notation": "J.[HK], 3MP > SA2, 360KK",
+            "character_id": 17
+        },
+        {
+            "name": "Drive Impact BNB",
+            "notation": "DI, 360HP/360PP",
+            "character_id": 17
+        },
+        {
+            "name": "Basic Confirm/Frame Trap String",
+            "notation": "2LK > 2LP > 5LP > 236MK",
+            "character_id": 18
+        },
+        {
+            "name": "Whiff Punish Buffer",
+            "notation": "2MP/2MK/5HP > 236HK",
+            "character_id": 18
+        },
+        {
+            "name": "Basic, Max Damage Jump-In",
+            "notation": "j.HK, 2HP, 2MP > 236HK",
+            "character_id": 18
+        },
+        {
+            "name": "Spiral Arrow Ender",
+            "notation": "2MP/2MK/5HP > 236HK",
+            "character_id": 18
+        },
+        {
+            "name": "Cannon Spike Ender",
+            "notation": "5HP > 623[HK]",
+            "character_id": 18
+        }
+    ]
+}
