@@ -8,7 +8,7 @@ const Home = () => {
   const [characters, setCharacters] = useState([]);
 
   useEffect(() => {
-    fetch(`/api/characters`)
+    fetch(`/characters`)
       .then((r) => r.json())
       .then((data) => setCharacters(data))
       .catch((error) => {
@@ -38,6 +38,21 @@ const Home = () => {
       </Col>
     );
   });
+
+  const loadingFighters = () => {
+    return (
+      <h1
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          // height: "100vh",
+        }}
+      >
+        Loading Fighters...
+      </h1>
+    );
+  }
 
   return (
     <div
@@ -102,7 +117,12 @@ const Home = () => {
         </Row>
       </Container>
       <Container>
-        <Row>{characterDisplay}</Row>
+        <Row>
+        {characters.length === 0 
+        ? loadingFighters()
+        : characterDisplay}
+        {/* {characterDisplay} */}
+        </Row>
       </Container>
     </div>
   );

@@ -9,7 +9,7 @@ function Profile() {
 
   useEffect(() => {
     if (user) {
-      fetch("/api/users", {
+      fetch("/users", {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
@@ -35,7 +35,7 @@ function Profile() {
     }
 
     try {
-      const response = await fetch(`/api/usercharacters/${userCharacterId}`, {
+      const response = await fetch(`/usercharacters/${userCharacterId}`, {
         method: "DELETE",
         headers: {
           "Content-Type": "application/json",

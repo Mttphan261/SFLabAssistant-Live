@@ -32,7 +32,7 @@ function Fighter() {
   const [matchups, setMatchups] = useState([]);
 
   useEffect(() => {
-    fetch(`/api/characters/${name}`)
+    fetch(`/characters/${name}`)
       .then((r) => r.json())
       .then((data) => {
         setFighter(data);
@@ -47,7 +47,7 @@ function Fighter() {
 
   useEffect(() => {
     if (user && fighter) {
-      fetch("/api/users", {
+      fetch("/users", {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
@@ -88,7 +88,7 @@ function Fighter() {
   //**** ADD TO USER ROSTER ****/
   const addToRoster = async () => {
     try {
-      const response = await fetch("/api/usercharacters", {
+      const response = await fetch("/usercharacters", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -113,7 +113,7 @@ function Fighter() {
     const vidDetails = videos.find((vid) => vid.video_id === videoID);
     try {
       const response = await fetch(
-        `/api/usercharacters/${userCharacter.id}/videos`,
+        `/usercharacters/${userCharacter.id}/videos`,
         {
           method: "POST",
           headers: {
@@ -155,7 +155,7 @@ function Fighter() {
 
     try {
       const response = await fetch(
-        `/api/usercharacters/${userCharacter.id}/videos`,
+        `/usercharacters/${userCharacter.id}/videos`,
         {
           method: "DELETE",
           headers: {
@@ -228,7 +228,7 @@ function Fighter() {
     // );
     try {
       const response = await fetch(
-        `/api/usercharacters/${userCharacter.id}/notes`,
+        `/usercharacters/${userCharacter.id}/notes`,
         {
           method: "POST",
           headers: {
@@ -264,7 +264,7 @@ function Fighter() {
   const handleDeleteNote = async (noteId) => {
     try {
       const response = await fetch(
-        `/api/usercharacters/${userCharacter.id}/notes`,
+        `/usercharacters/${userCharacter.id}/notes`,
         {
           method: "DELETE",
           headers: {
@@ -310,7 +310,7 @@ function Fighter() {
     // );
     try {
       const response = await fetch(
-        `/api/usercharacters/${userCharacter.id}/notes`,
+        `/usercharacters/${userCharacter.id}/notes`,
         {
           method: "PATCH",
           headers: {
@@ -459,7 +459,7 @@ function Fighter() {
   //***** HANDLE ADD TO VIDEO TESTING *****/
   const handleAddVideo = async (newVideo) => {
     try {
-      const response = await fetch(`/api/characters/${name}`);
+      const response = await fetch(`/characters/${name}`);
       if (response.status >= 200 && response.status < 300) {
         const updatedFighter = await response.json();
         setVideos(updatedFighter.videos);
@@ -478,7 +478,7 @@ function Fighter() {
 
   // ***** HANDLE MATCHUP UPDATE *****
   const updateMatchupStatus = (matchupId, newStatus) => {
-    fetch(`/api/matchups/${matchupId}`, {
+    fetch(`/matchups/${matchupId}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",

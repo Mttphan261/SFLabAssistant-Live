@@ -12,7 +12,7 @@ function VideoForm({ handleAddVideo }) {
 
 
   useEffect(() => {
-    fetch(`/api/characters/${name}`)
+    fetch(`/characters/${name}`)
       .then((r) => r.json())
       .then((data) => {
         setFighter(data);
@@ -50,7 +50,7 @@ function VideoForm({ handleAddVideo }) {
     }
 
     try {
-        const response = await fetch('/api/videos', {
+        const response = await fetch('/videos', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -61,7 +61,7 @@ function VideoForm({ handleAddVideo }) {
             const video = await response.json();
             console.log('Video submitted:', video)
 
-            const characterResponse = await fetch(`/api/characters/${name}`)
+            const characterResponse = await fetch(`/characters/${name}`)
             const updatedFighter = await characterResponse.json()
             setFighter(updatedFighter)
             handleAddVideo(video)

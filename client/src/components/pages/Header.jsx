@@ -20,7 +20,7 @@ function Header() {
 
   const handleLogout = async () => {
     try {
-      await fetch("/api/logout", {
+      await fetch("/logout", {
         method: "POST",
         credentials: "same-origin",
       });

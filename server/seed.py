@@ -131,7 +131,7 @@ def clear_tables():
     db.session.query(UserCharacter).delete()
     db.session.query(TrainingNote).delete()
     db.session.query(Matchup).delete()
-    db.session.query(Combo).delete()
+    # db.session.query(Combo).delete()
 
 if __name__ == "__main__":
     with app.app_context():
@@ -139,11 +139,11 @@ if __name__ == "__main__":
         clear_tables()
         print('Clearing tables...')
         # load_characters()
-        # print('Loading characters...')
-        # # load_moves()
+        # # print('Loading characters...')
+        # load_moves()
         # print('Loading moves...')
-        load_combos()
-        print('Loading combos...')
+        # load_combos()
+        # print('Loading combos...')
         load_videos()
         print('loading videos...')
         print('Seeding complete!')

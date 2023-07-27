@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
+import os
 
-
-api_key = 'AIzaSyAjK_ZZ7riJxHDISl_OLUMDP3DrZpi2tYg'
+api_key = os.environ.get('API_KEY')
 
 youtube = build('youtube', 'v3', developerKey=api_key)
 

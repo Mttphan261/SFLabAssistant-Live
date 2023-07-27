@@ -42,7 +42,7 @@ function SignUp() {
   // };
 
   const handleSubmit = (values) => {
-    fetch("/api/signup", {
+    fetch("/signup", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

@@ -19,6 +19,8 @@ gunicorn = "*"
 flask-login = "*"
 flask-bcrypt = "*"
 google-api-python-client = "*"
+psycopg2-binary = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
