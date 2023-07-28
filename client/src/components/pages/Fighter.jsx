@@ -55,7 +55,6 @@ function Fighter() {
       })
         .then((response) => response.json())
         .then((userData) => {
-          console.log(userData);
           const userCharacters = userData.user_characters;
           const isInRoster = userCharacters.some(
             (uc) => uc.character.name === name
@@ -71,7 +70,6 @@ function Fighter() {
             setUserCharacterNotes(uc.training_notes);
             setUserCharacterVids(uc.videos);
             setMatchups(uc.matchups);
-            console.log(userCharacter);
           }
         })
         .catch((error) => {
