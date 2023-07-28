@@ -150,7 +150,7 @@ class UserCharacter(db.Model, SerializerMixin):
     character = db.relationship('Character', back_populates='user_characters')
     videos = db.relationship('Video', back_populates='user_character', cascade="all, delete-orphan")
     training_notes = db.relationship('TrainingNote', back_populates='user_character', cascade="all, delete-orphan")
-    matchups = db.relationship('Matchup', back_populates='user_character', cascade="all,  delete-orphan")
+    matchups = db.relationship('Matchup', back_populates='user_character', cascade="all, delete-orphan")
 
     #serialization
     # serialize_rules = ('-user.user_characters', '-character.user_characters', '-videos.user_character')
